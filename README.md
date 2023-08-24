@@ -19,4 +19,4 @@ Output:
 ```
 
 # Record of a Sample Run
-[![asciicast](https://asciinema.org/a/2c3ysUR6k5j7hIOPDX6SLFvRc.svg)](https://asciinema.org/a/2c3ysUR6k5j7hIOPDX6SLFvRc)
+[![asciicast](https://asciinema.org/a/QBugLtetriyfM1zLQEhZftMQY.svg)](https://asciinema.org/a/QBugLtetriyfM1zLQEhZftMQY)
